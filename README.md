@@ -1,6 +1,13 @@
 # 💫 About Me:
+
 Aspiring Software Engineer | Skilled in Coding and Problem-Solving | Passionate about Making a Positive Impact through Technology
 👋 Welcome to my GitHub profile!
+
+"Embrace the adventure, but don't forget to bring your sense of humor along for the ride." Life can throw its curveballs, and work can be a rollercoaster of challenges, but I firmly believe that maintaining a playful spirit adds color to the canvas of existence. So, I tackle tasks with determination and dedication, all while infusing a sprinkle of light-heartedness. By finding joy in the process, cracking a joke or two, and embracing the power of laughter, I strive to create a vibrant tapestry of memorable experiences. After all, when we approach life with a twinkle in our eyes, the possibilities are endless. Cheers to serious fun and a life well lived!
+
+
+As a person in their early twenties, embarking on the journey of adulthood, I find inspiration in the words of Steve Jobs, the visionary co-founder of Apple. He once said, "Stay hungry, stay foolish." These words resonate with me deeply, reminding me to always hunger for knowledge, experiences, and personal growth. They encourage me to embrace the unknown, take risks, and not be afraid to make mistakes. It's a reminder that life is about constantly learning, pushing boundaries, and staying curious, even when others may consider it foolish. This quote serves as a compass guiding me toward a life filled with passion, purpose, and endless possibilities.
+
 
 🚀 As an aspiring Software Engineer, I am driven by a deep passion for leveraging technology to make a positive impact. I believe in the power of code to shape the world we live in and create meaningful solutions to real-life challenges.
 
