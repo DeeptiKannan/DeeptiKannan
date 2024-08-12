@@ -49,6 +49,12 @@ As a person in their early twenties, embarking on the journey of adulthood, I fi
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-%2300C4CC.svg?style=for-the-badge&logo=blockchain&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![APIs](https://img.shields.io/badge/APIs-%23007ACC.svg?style=for-the-badge&logo=api&logoColor=white)
+
 
 
 
